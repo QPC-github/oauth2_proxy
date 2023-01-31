@@ -11,7 +11,7 @@ GEM
     domain_name (0.5.20170404)
       unf (>= 0.0.5, < 1.0.0)
     dotenv (2.2.1)
-    ffi (1.9.18)
+    ffi (1.15.5)
     fpm (1.9.3)
       arr-pm (~> 0.0.10)
       backports (>= 2.6.2)
